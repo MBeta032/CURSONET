@@ -1,0 +1,19 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+U-001,Ana García,48,M,ana.garcia1@mail.com,1977-01-11
+U-002,Luis Rodríguez,53,Otro,luis.rodriguez2@mail.com,1972-08-26
+U-003,Camila Martínez,18,M,camila.martinez3@mail.com,2007-10-27
+U-004,Jorge López,43,M,jorge.lopez4@mail.com,1982-07-26
+U-005,Valentina González,18,F,valentina.gonzalez5@mail.com,2007-07-14
+U-006,Mateo Pérez,54,Otro,mateo.perez6@mail.com,1971-02-08
+U-007,Sofía Sánchez,36,M,sofia.sanchez7@mail.com,1989-07-19
+U-008,Daniel Ramírez,34,M,daniel.ramirez8@mail.com,1991-02-17
+U-009,María Torres,45,F,maria.torres9@mail.com,1980-10-10
+U-010,Carlos Flores,54,Otro,carlos.flores10@mail.com,1971-11-11
+U-011,Laura Rivera,55,F,laura.rivera11@mail.com,1969-12-11
+U-012,Andrés Gómez,42,M,andres.gomez12@mail.com,1983-04-29
+U-013,Paula Mendoza,34,F,paula.mendoza13@mail.com,1991-06-02
+U-014,Felipe Vargas,54,F,felipe.vargas14@mail.com,1971-05-07
+U-015,Diana Castro,21,M,diana.castro15@mail.com,2004-02-11
+U-016,Santiago Rojas,36,M,santiago.rojas16@mail.com,1989-06-18
+U-017,Carolina Ortega,20,F,carolina.ortega17@mail.com,2004-12-23
+U-018,Juan Navarro,53,Otro,juan.navarro18@mail.com,1972-11-15

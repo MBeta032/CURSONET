@@ -2,15 +2,4 @@ codigo,nombre,descripcion
 CAT-PROG,Programación,Cursos de lenguajes y paradigmas de programación.
 CAT-DB,Bases de Datos,"Modelado, SQL/NoSQL y administración de datos."
 CAT-DATA,Ciencia de Datos,Extracción de conocimiento a partir de datos.
-CAT-ML,Machine Learning,Modelos de aprendizaje automático.
-CAT-WEB,Desarrollo Web,Front-end y back-end para la web.
-CAT-UX,UX/UI,Experiencia y diseño de interfaces de usuario.
-CAT-MKT,Marketing,"Marketing digital, SEO, SEM, redes sociales."
-CAT-ALG,Matemáticas,"Álgebra, cálculo y estadística aplicada."
-CAT-DEVOPS,DevOps,"Integración y despliegue continuo, contenedores."
-CAT-RED,Redes,Fundamentos y protocolos de redes.
-CAT-SEG,Seguridad,Ciberseguridad y protección de la información.
-CAT-ARQ,Arquitectura,Diseño de arquitecturas de software.
-CAT-SO,Sistemas Operativos,"Linux/Windows, administración y comandos."
-CAT-VCS,Control de Versiones,"Git, flujos de trabajo y colaboración."
-CAT-OTROS,Otros,Temas varios no categorizados.
+

@@ -1,0 +1,5 @@
+cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
+C-001,Introducción a Python,Curso Introducción a Python con enfoque práctico.,Intermedio,2023,
+C-002,Fundamentos de Bases de Datos,Curso Fundamentos de Bases de Datos con enfoque práctico.,Intermedio,2020,
+C-003,Desarrollo Web con HTML y CSS,Curso Desarrollo Web con HTML y CSS con enfoque práctico.,Básico,2025,
+C-004,JavaScript Desde Cero,Curso JavaScript Desde Cero con enfoque práctico.,Avanzado,2023,

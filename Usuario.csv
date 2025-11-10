@@ -1,0 +1,21 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+U001,Usuario 01,19,F,u001@correo.com,1990-02-05
+U002,Usuario 02,41,M,u002@correo.com,1991-03-12
+U003,Usuario 03,30,F,u003@correo.com,1992-04-15
+U004,Usuario 04,32,M,u004@correo.com,1993-05-20
+U005,Usuario 05,36,F,u005@correo.com,1994-06-24
+U006,Usuario 06,39,M,u006@correo.com,1995-07-29
+U007,Usuario 07,26,F,u007@correo.com,1996-09-01
+U008,Usuario 08,28,M,u008@correo.com,1997-10-06
+U009,Usuario 09,35,F,u009@correo.com,1998-11-10
+U010,Usuario 10,25,M,u010@correo.com,1999-12-15
+U011,Usuario 11,20,F,u011@correo.com,2001-01-18
+U012,Usuario 12,28,M,u012@correo.com,2002-02-22
+U013,Usuario 13,34,F,u013@correo.com,2003-03-29
+U014,Usuario 14,29,M,u014@correo.com,2004-05-02
+U015,Usuario 15,45,F,u015@correo.com,2005-06-06
+U016,Usuario 16,40,M,u016@correo.com,2006-07-11
+U017,Usuario 17,22,F,u017@correo.com,2007-08-15
+U018,Usuario 18,43,M,u018@correo.com,2008-09-18
+U019,Usuario 19,29,F,u019@correo.com,2009-10-23
+U020,Usuario 20,26,M,u020@correo.com,2010-11-27
